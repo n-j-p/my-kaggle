@@ -1,5 +1,3 @@
-def square(n):
-    return n**2
-
+from .base import *
 from . import constants
 from . import functions
